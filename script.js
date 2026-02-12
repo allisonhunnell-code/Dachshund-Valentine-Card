@@ -11,7 +11,7 @@ const yesButtonStyle = window.getComputedStyle(yesButton);
 const maxYesWidth = parseFloat(yesButtonStyle.maxWidth);
 
 // array of gifs - in order
-const gifs = ["assets/images/happy-dachshund.gif", "assets/images/chef-dachshund.gif", "assets/images/wait-is-he-serious.webp", "assets/images/begging-dachshund.gif"];
+const gifs = ["assets/happy-dachshund.gif", "assets/chef-dachshund.gif", "assets/wait-is-he-serious.webp", "assets/begging-dachshund.gif"];
 // array of messages
 const buttonMessages = ["Are you sure??", "So you don't want me to be your chef?", "wait, is he serious?", "PLEASE?!"];
 
